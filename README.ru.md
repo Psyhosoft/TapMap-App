@@ -60,15 +60,15 @@
 
 Лучшие места по оценке и числу отзывов, из тех же данных, что в приложении:
 
-- [Куда сходить на Пхукете](https://tapmap.net/c/phuket)
+- [Куда сходить на Пхукете и что посмотреть](https://tapmap.net/c/phuket)
 - [Рестораны и кафе Пхукета](https://tapmap.net/c/phuket/food) ·
   [Бары](https://tapmap.net/c/phuket/bars) ·
-  [Клубы](https://tapmap.net/c/phuket/clubs) ·
+  [Ночные клубы](https://tapmap.net/c/phuket/clubs) ·
   [Пляжи](https://tapmap.net/c/phuket/beaches)
 - [Достопримечательности](https://tapmap.net/c/phuket/attractions) ·
   [Природа](https://tapmap.net/c/phuket/nature) ·
   [SPA и массаж](https://tapmap.net/c/phuket/spa) ·
-  [Шопинг](https://tapmap.net/c/phuket/shopping) ·
+  [Рынки и торговые центры](https://tapmap.net/c/phuket/shopping) ·
   [Коворкинги](https://tapmap.net/c/phuket/coworking) ·
   [Афиша](https://tapmap.net/c/phuket/events)
 

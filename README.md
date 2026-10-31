@@ -60,15 +60,15 @@ Available in English, Russian and Thai. Free, with no ads inside.
 
 Ranked by rating and number of reviews, updated from the same data as the app:
 
-- [Where to go in Phuket](https://tapmap.net/en/c/phuket)
+- [Things to do in Phuket](https://tapmap.net/en/c/phuket)
 - [Restaurants and cafes in Phuket](https://tapmap.net/en/c/phuket/food) ·
   [Bars](https://tapmap.net/en/c/phuket/bars) ·
-  [Nightclubs](https://tapmap.net/en/c/phuket/clubs) ·
+  [Nightclubs & beach clubs](https://tapmap.net/en/c/phuket/clubs) ·
   [Beaches](https://tapmap.net/en/c/phuket/beaches)
 - [Sights](https://tapmap.net/en/c/phuket/attractions) ·
   [Nature](https://tapmap.net/en/c/phuket/nature) ·
   [Spa and massage](https://tapmap.net/en/c/phuket/spa) ·
-  [Shopping](https://tapmap.net/en/c/phuket/shopping) ·
+  [Night markets & malls](https://tapmap.net/en/c/phuket/shopping) ·
   [Coworking](https://tapmap.net/en/c/phuket/coworking) ·
   [Events](https://tapmap.net/en/c/phuket/events)
 
