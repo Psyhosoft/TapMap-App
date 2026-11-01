@@ -6,7 +6,7 @@
 
 <p align="center">
   A social network built on a map: restaurants, cafes, bars, nightclubs, beaches,<br>
-  sights, spas and events in Phuket, Bangkok, Pattaya, Koh Samui, Chiang Mai and all of Thailand.
+  sights, spas and events in Phuket, Bangkok, Pattaya, Koh Samui, Chiang Mai and more cities.
 </p>
 
 <p align="center">
@@ -77,8 +77,8 @@ More cities are on the way.
 ## FAQ
 
 **Which cities does TapMap cover?**
-All of Thailand: Phuket, Bangkok, Pattaya, Koh Samui, Chiang Mai and more. Phuket and
-Bangkok have the most places and events.
+Phuket and Bangkok have the most places and events right now; Pattaya, Koh Samui,
+Chiang Mai and other cities are on the map too, and new cities and countries are coming.
 
 **Does the map work without good internet?**
 Yes. After the first launch the places live on your phone, so the map opens right away
