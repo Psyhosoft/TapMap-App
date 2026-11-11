@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://tapmap.net/?utm_source=github&utm_medium=readme">Website</a> ·
   <a href="https://play.google.com/store/apps/details?id=com.tapmap.psyhosoft&utm_source=github&utm_medium=readme">Google Play</a> ·
+  <a href="https://apps.apple.com/app/id6806826254">App Store</a> ·
   <a href="https://tapmap.net/en/c/phuket?utm_source=github&utm_medium=readme">Phuket guide</a> ·
   <a href="README.ru.md">Русский</a>
 </p>
@@ -53,7 +54,7 @@ Available in English, Russian and Thai. Free, with no ads inside.
 | Platform | Link |
 |---|---|
 | Android | [Google Play](https://play.google.com/store/apps/details?id=com.tapmap.psyhosoft&utm_source=github&utm_medium=readme) |
-| iPhone | App Store — in review |
+| iPhone | [App Store](https://apps.apple.com/app/id6806826254) |
 | Web | [tapmap.net](https://tapmap.net/?utm_source=github&utm_medium=readme) — the full app in the browser |
 
 ## City guides on the web

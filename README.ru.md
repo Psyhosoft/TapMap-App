@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://tapmap.net/?utm_source=github&utm_medium=readme">Сайт</a> ·
   <a href="https://play.google.com/store/apps/details?id=com.tapmap.psyhosoft&utm_source=github&utm_medium=readme">Google Play</a> ·
+  <a href="https://apps.apple.com/app/id6806826254">App Store</a> ·
   <a href="https://www.rustore.ru/catalog/app/com.tapmap.psyhosoft">RuStore</a> ·
   <a href="https://tapmap.net/c/phuket?utm_source=github&utm_medium=readme">Гид по Пхукету</a> ·
   <a href="README.md">English</a>
@@ -54,7 +55,7 @@
 |---|---|
 | Android | [Google Play](https://play.google.com/store/apps/details?id=com.tapmap.psyhosoft&utm_source=github&utm_medium=readme) |
 | Android | [RuStore](https://www.rustore.ru/catalog/app/com.tapmap.psyhosoft) |
-| iPhone | App Store — на проверке |
+| iPhone | [App Store](https://apps.apple.com/app/id6806826254) |
 | Браузер | [tapmap.net](https://tapmap.net/?utm_source=github&utm_medium=readme) — приложение целиком |
 
 ## Гиды по городам
